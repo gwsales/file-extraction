@@ -88,5 +88,5 @@ export {
 		["video/quicktime"] = "qt",
 		["video/mp4"] = "mp4",
 		["video/3gpp"] = "3gp",
-	};
+	} &default ="";
 }
